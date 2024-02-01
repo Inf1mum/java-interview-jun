@@ -1,9 +1,9 @@
 ## JVM
-+ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM)
++ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM) :bangbang:
 + [Classloader](jvm.md#Classloader)
-+ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения)
++ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения) :bangbang:
 + [Frames](jvm.md#Frames)
-+ [Execution Engine](jvm.md#Execution-Engine)
++ [Execution Engine](jvm.md#Execution-Engine) :bangbang:
 + [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 ## За что отвечает _JVM_:

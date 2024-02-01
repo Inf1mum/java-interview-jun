@@ -1,12 +1,9 @@
-[Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)  
-[Telegram Bot](https://web.telegram.org/#/im?p=@DevInterviewBot) [by cmmttd](https://github.com/cmmttd)
-
 # Вопросы для собеседования на Java Developer
 
-+ [ООП](#oop.md) :white_check_mark:
-+ [JVM](#jvm.md) :white_check_mark:
-+ [Java Core](#core.md) :white_check_mark:
-+ [Java Collections Framework](#java-collections) :x:
++ [ООП](oop.md) :white_check_mark:
++ [JVM](jvm.md) :white_check_mark:
++ [Java Core](core.md) :white_check_mark:
++ [Java Collections Framework](jcf.md) :x:
 + [Java 8](#java-8) :x:
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) :x:
 + [Сериализация](#Сериализация):x:

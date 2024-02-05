@@ -3,11 +3,11 @@
 + [ООП](oop.md) :white_check_mark:
 + [JVM](jvm.md) :white_check_mark:
 + [Java Core](core.md) :white_check_mark:
-+ [Java Collections Framework](jcf.md) :x:
-+ [Java 8](#java-8) :x:
-+ [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) :x:
-+ [Сериализация](#Сериализация):x:
-+ [Многопоточность](#Многопоточность) :x:
++ [Java Collections Framework](jcf.md) :white_check_mark:
++ [Java 8](java8.md) :white_check_mark:
++ [Потоки ввода-вывода в Java](io.md) :x:
++ [Сериализация](serialization.md):x:
++ [Многопоточность](concurrency.md) :x:
 + [Servlets, JSP, JSTL](#servlets-jsp-jstl) :x:
 + [Базы данных](#Базы-данных) :x:
 + [SQL](#sql) :x:
